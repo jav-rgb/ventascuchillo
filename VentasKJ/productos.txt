@@ -1,0 +1,11 @@
+c001,Corta pluma,japon,12 cm,60,6000
+c002,Cuchillo Muela,Espania,28 cm,18,100000
+c003,Mariposa,china,14 cm,79,8000
+c004,ka-bar,USA,18 cm,25,130000
+c005,derwild,Alemania,11.5 cm,5,1000000
+c006,Corvo,chile,14 cm,35,90000
+c007,Cuchillo automatico,chino,16 cm,60,12000
+c008,Cuchillo patagomico,argentina,14 cm,36,22000
+c009,Multiusos,suiza,9 cm,20,26000
+c010,Katana,japon,65 cm,30,85000
+c011,cono,china,15cm,55,120000
